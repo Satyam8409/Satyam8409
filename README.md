@@ -78,7 +78,7 @@
 
 <h3 align="left">Certifications & Achievements:</h3>
 <ul>
-  <li><a href="https://github.com/satyam8409/certifications" target="_blank">📜 View My Certifications Repository</a></li>
+  <li><a href="https://github.com/Satyam8409/Certificate" target="_blank">📜 View My Certifications Repository</a></li>
 </ul>
 
 ---
