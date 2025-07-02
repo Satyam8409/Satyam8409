@@ -69,7 +69,7 @@
 
 <h3 align="left">Featured Projects:</h3>
 <ul>
-  <li><a href="swiggy-project-steel.vercel.app">🍔 Swiggy Clone</a> – A fully functional food ordering platform</li>
+  <li><a href="https://swiggy-project-steel.vercel.app/">🍔 Swiggy Clone</a> – A fully functional food ordering platform</li>
   <li><a href="https://github.com/satyam8409/weather-app">🌤️ Weather App</a> – Realtime weather updates with dynamic visuals</li>
   <li><a href="https://github.com/satyam8409/task-manager">✅ Task Manager</a> – MERN stack project to manage daily tasks</li>
 </ul>
