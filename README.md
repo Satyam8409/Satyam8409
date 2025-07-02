@@ -3,6 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=satyam8409&label=Profile%20views&color=0e75b6&style=flat" alt="satyam8409" />
+  <img src="https://img.shields.io/github/followers/satyam8409?label=Followers&style=social" alt="GitHub Followers"/>
 </p>
 
 ---
@@ -49,6 +50,24 @@
 
 ---
 
+<h3 align="left">💼 Portfolio / Featured Projects</h3>
+<ul>
+  <li><b>Swiggy Clone</b> – A fully functional food ordering platform (in progress)</li>
+  <li><b>Weather App</b> – Realtime weather updates with dynamic visuals</li>
+  <li><b>Task Manager</b> – A MERN stack project to track daily tasks</li>
+</ul>
+
+---
+
+<h3 align="left">🏆 Certifications & Achievements</h3>
+<ul>
+  <li>JavaScript Developer Certification - [Platform/Issuer]</li>
+  <li>Responsive Web Design Certification - [Platform/Issuer]</li>
+  <li>100+ GitHub Contributions in the last year</li>
+</ul>
+
+---
+
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
@@ -59,6 +78,20 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam8409&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+---
+
+<h3 align="left">📈 GitHub Activity Graph</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyam8409&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+<h3 align="left">✨ Quote of the Day</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
